@@ -3,6 +3,7 @@
 #include <vector>
 
 double tax(double, double);
+
 int main() {
 	std::cout << std::fixed << std::setprecision(2);
 	std::cout << "Welcome to my restaurant" << std::endl;
